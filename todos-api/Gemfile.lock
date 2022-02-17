@@ -205,7 +205,7 @@ DEPENDENCIES
   debug
   factory_bot_rails (~> 4.0)
   faker
-  jwt
+  jwt (~> 2.3.0)
   puma (~> 5.0)
   rails (~> 7.0.2, >= 7.0.2.2)
   rspec-rails (~> 4.0)
